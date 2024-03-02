@@ -1,0 +1,9 @@
+{
+    "helloWorld" : "Hello World",
+    "@helloWorld" : {
+        "description" : "NewBorn Localization"
+    },
+
+    "agewarning" : "You must be 18 or above to place an order, for customers aged 13-17 please ask a parent or guardian for consent.",
+    "enterNumber" : "Enter Number"
+}
